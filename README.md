@@ -19,9 +19,9 @@ The first question you should ask is "is this better as a bubble?" If the answer
 If you think your project is better suited as a standalone library, then you can make a [new discussion][new-discussion].
 From there, the community will leave feedback and help get your project added to the charm-community organization.
 
-### How can I get my plugin/exertion added?
+### How can I get my plugin/extension added?
 
-If you have an awesome neovim plugin or a cool VSCode exertion, then you can make a [new discussion][new-discussion].
+If you have an awesome neovim plugin or a cool VSCode extension, then you can make a [new discussion][new-discussion].
 From there, the community will leave feedback and help get your project added to the charm-community organization.
 
 ### But what if I don't want to transfer ownership?
